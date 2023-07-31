@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "453760699784",
+    "project_id": "mobicam-d76bc",
+    "storage_bucket": "mobicam-d76bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453760699784:android:e2b3ff75d256413236be3d",
+        "android_client_info": {
+          "package_name": "com.android.mobicam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453760699784-2cv6k7ubsi0jqefv7kv95jd8go8t2e41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.mobicam",
+            "certificate_hash": "16c3406e783463088ae3f3d4e3a06809a9c84ced"
+          }
+        },
+        {
+          "client_id": "453760699784-7bt091k3mqcm60ffrl0ca9q8efiiermo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUfKiw1D_SzDkT8Mw8MimlcPV6qb60ZHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453760699784-7bt091k3mqcm60ffrl0ca9q8efiiermo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

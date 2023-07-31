@@ -1,0 +1,7 @@
+com.android.mobicam.test.app-androidTest-0 C:\Users\Salan\Documents\Final Project - CS6019\MobiCam\app\build\generated\res\resValues\androidTest\debug
+com.android.mobicam.test.app-androidTest-1 C:\Users\Salan\Documents\Final Project - CS6019\MobiCam\app\build\generated\res\rs\androidTest\debug
+com.android.mobicam.test.app-mergeDebugAndroidTestResources-2 C:\Users\Salan\Documents\Final Project - CS6019\MobiCam\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.android.mobicam.test.app-mergeDebugAndroidTestResources-3 C:\Users\Salan\Documents\Final Project - CS6019\MobiCam\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.android.mobicam.test.app-merged_res-4 C:\Users\Salan\Documents\Final Project - CS6019\MobiCam\app\build\intermediates\merged_res\debugAndroidTest
+com.android.mobicam.test.app-androidTest-5 C:\Users\Salan\Documents\Final Project - CS6019\MobiCam\app\src\androidTest\res
+com.android.mobicam.test.app-androidTestDebug-6 C:\Users\Salan\Documents\Final Project - CS6019\MobiCam\app\src\androidTestDebug\res

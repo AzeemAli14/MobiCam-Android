@@ -1,0 +1,8 @@
+include ':app'
+rootProject.name = "MobiCam"
+
+dependencyResolutionManagement {
+    repositories {
+        google()
+    }
+}

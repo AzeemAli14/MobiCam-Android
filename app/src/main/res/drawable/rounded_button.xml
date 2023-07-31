@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners  android:radius="50dp"/>
+    <solid android:color="@color/purple_500"></solid>
+    <ripple xmlns:android="http://schemas.android.com/apk/res/android"
+        android:color="@color/colorAccent">
+
+        <!--this creates the mask with the ripple effect-->
+        <item
+            android:id="@+id/mask"
+            android:drawable="@android:color/white" />
+
+    </ripple>
+</shape>

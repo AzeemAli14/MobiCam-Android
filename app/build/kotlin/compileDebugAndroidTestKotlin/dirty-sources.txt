@@ -1,0 +1,1 @@
+C:\Users\Salan\Documents\Final Project - CS6019\MobiCam\app\src\androidTest\java\com\android\mobicam\ExampleInstrumentedTest.kt
