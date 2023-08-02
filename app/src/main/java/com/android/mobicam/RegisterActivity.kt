@@ -39,26 +39,28 @@ class RegisterActivity : AppCompatActivity() {
 
                     firebaseAuth.createUserWithEmailAndPassword(email, pass).addOnCompleteListener {
                         if (it.isSuccessful){
+                            val userMap = hashMapOf(
+                                "Name" to name,
+                                "Email" to email,
+                                "Password" to pass,
+                                "Phone Number" to phoneNumber
+                            )
+                            val userID = firebaseAuth.currentUser!!.uid
+                            db.collection("userData").document(userID).set(userMap)
+                                .addOnSuccessListener {
+                                    Toast.makeText(this, "Successfully Added !", Toast.LENGTH_SHORT).show()
+                                }
+                                .addOnFailureListener{
+                                    Toast.makeText(this, "Failed !", Toast.LENGTH_SHORT).show()
+                                }
+
                             val intent = Intent(this, LoginActivity::class.java)
                             startActivity(intent)
                         } else {
                             Toast.makeText(this, it.exception.toString() ,Toast.LENGTH_SHORT).show()
                         }
                     }
-                    val userMap = hashMapOf(
-                        "Name" to name,
-                        "Email" to email,
-                        "Password" to pass,
-                        "Phone Number" to phoneNumber
-                    )
-                    val userID = firebaseAuth.currentUser!!.uid
-                    db.collection("userData").document(userID).set(userMap)
-                        .addOnSuccessListener {
-                            Toast.makeText(this, "Successfully Added !", Toast.LENGTH_SHORT).show()
-                        }
-                        .addOnFailureListener{
-                            Toast.makeText(this, "Failed !", Toast.LENGTH_SHORT).show()
-                        }
+
                 } else{
                     Toast.makeText(this, "Password is not matching",Toast.LENGTH_SHORT).show()
                 }
