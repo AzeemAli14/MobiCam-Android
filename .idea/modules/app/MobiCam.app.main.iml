@@ -35,11 +35,13 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/782dba7486ecb92d9a6107488836b876/transformed/jetified-firebase-auth-21.1.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/a3f731ce8dd6eb4be99b5d0a90bc1a4d/transformed/jetified-firebase-firestore-ktx-24.4.5-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/026849ee0ce728eb40b8472c8b950ba5/transformed/jetified-firebase-inappmessaging-20.3.1-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/1c66e2b01cc7ab22a86e8a9a23092dc2/transformed/jetified-firebase-database-ktx-20.1.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/5699bc5a77ee5c49f8fde0a9e0d39c04/transformed/jetified-firebase-common-ktx-20.3.2-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/99959ac464df1aad9dc143ec0b06675b/transformed/jetified-firebase-firestore-24.4.5-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/c4614840b6752b646af0e8a6324dd5e2/transformed/jetified-firebase-installations-17.1.3-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/c3e52be90588f52dcd65ded859d74677/transformed/jetified-firebase-abt-21.1.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/985f9d3f6b792511893ae453bcf5bb12/transformed/jetified-firebase-datatransport-18.1.7-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/10f32c50c2b386b21a4856bc772213e6/transformed/jetified-firebase-database-20.1.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/5467dd8a2d1342e462052748bfd12b17/transformed/jetified-firebase-auth-interop-20.0.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/5e35803a09fdebe2b917c720ac28ed7b/transformed/jetified-firebase-appcheck-interop-16.1.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/2cd43b5e11d0fee9fb560d29f80e3fec/transformed/jetified-firebase-common-20.3.2-api.jar</arg>
@@ -300,5 +302,7 @@
     <orderEntry type="library" name="Gradle: com.google.firebase:firebase-encoders-json:18.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.wear.tiles:tiles-material:1.1.0-alpha04@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.wear.tiles:tiles:1.1.0-alpha04@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-database-ktx:20.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-database:20.1.0@aar" level="project" />
   </component>
 </module>
