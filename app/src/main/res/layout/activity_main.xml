@@ -1,248 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <com.android.mobicam.customcomponents.PreConnectLayout
-        android:id="@+id/waiting_to_connect_layout"
-        android:background="@color/colorPrimaryDark"
+    <androidx.camera.view.PreviewView
+        android:id="@+id/viewFinder"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        >
+        android:layout_height="match_parent" />
 
-        <TextView
-            android:id="@+id/waiting_for_connection_text"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="40dp"
-            android:layout_marginRight="40dp"
-            android:text="@string/waiting_got_other_device_to_connect"
-            android:gravity="center_horizontal"
-            android:layout_gravity="center_horizontal"
-            android:textColor="@color/colorAccent"
-            android:textSize="32dp"
-            app:layout_constraintLeft_toLeftOf="parent"
-            app:layout_constraintRight_toRightOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintBottom_toBottomOf="parent"
-            />
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/image_capture_button"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:layout_marginBottom="50dp"
+        android:layout_marginEnd="50dp"
+        android:elevation="2dp"
+        android:textColor="@color/black"
+        android:text="@string/take_photo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/vertical_centerline" />
 
-        <com.android.mobicam.customcomponents.ExitButton
-            android:id="@+id/exit_button_pre_connect"
-            style="@style/IconOnlyButton"
-            android:layout_width="60dp"
-            android:layout_height="60dp"
-            app:layout_constraintRight_toRightOf="parent"
-            app:layout_constraintBottom_toBottomOf="parent"
-            android:layout_marginStart="20dp"
-            android:layout_marginTop="20dp"
-            android:layout_marginEnd="20dp"
-            android:layout_marginBottom="20dp"
-            app:icon="@drawable/exit" />
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/video_capture_button"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:layout_marginBottom="50dp"
+        android:layout_marginStart="50dp"
+        android:elevation="2dp"
+        android:textColor="@color/black"
+        android:text="@string/start_capture"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@id/vertical_centerline" />
 
-    </com.android.mobicam.customcomponents.PreConnectLayout>
-
-    <com.android.mobicam.customcomponents.MainLayout
-        android:id="@+id/mainLayout"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:background="@color/colorPrimaryDark"
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/vertical_centerline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:weightSum="2">
+        app:layout_constraintGuide_percent=".50" />
 
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_margin="1dp"
-            android:layout_weight="1"
-            android:background="@drawable/panels_background">
-
-            <com.android.mobicam.customcomponents.StartCameraButton
-                android:id="@+id/cameraPanel"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                style="@style/IconOnlyButton"
-                android:gravity="center"
-                app:icon="@drawable/ic_video_camera_front_black_24dp"
-                />
-        </RelativeLayout>
-
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_margin="1dp"
-            android:layout_weight="1"
-            android:background="@drawable/panels_background">
-
-            <com.android.mobicam.customcomponents.StartDisplayButton
-                android:id="@+id/displayPanel"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                style="@style/IconOnlyButton"
-                android:gravity="center"
-                app:icon="@drawable/ic_monitor_black_24dp"
-                />
-
-            <com.android.mobicam.customcomponents.ExitButton
-                android:id="@+id/exit_button"
-                style="@style/IconOnlyButton"
-                android:layout_width="60dp"
-                android:layout_height="60dp"
-                android:layout_alignParentRight="true"
-                android:layout_alignParentBottom="true"
-                android:layout_marginStart="20dp"
-                android:layout_marginTop="20dp"
-                android:layout_marginEnd="20dp"
-                android:layout_marginBottom="20dp"
-                app:icon="@drawable/exit" />
-
-        </RelativeLayout>
-
-    </com.android.mobicam.customcomponents.MainLayout>
-
-    <com.android.mobicam.camera.customcomponents.CameraLayout
-        android:id="@+id/cameraLayout"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:background="@drawable/panels_background"
-        android:orientation="vertical">
-
-        <com.android.mobicam.camera.customcomponents.WebRTCSurfaceView
-            android:id="@+id/videoWindow"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:gravity="center" />
-
-        <LinearLayout
-            android:id="@+id/video_controls_camera"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignParentBottom="true"
-            android:background="@drawable/shaded"
-            android:orientation="vertical"
-            app:layout_constraintBottom_toBottomOf="parent">
-
-            <com.android.mobicam.camera.customcomponents.FlipCamera
-                android:id="@+id/ic_flip_camera"
-                style="@style/IconOnlyButton"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_gravity="center"
-                android:layout_margin="5dp"
-                android:background="@drawable/button"
-                app:icon="@drawable/ic_flip_camera" />
-
-        </LinearLayout>
-
-        <LinearLayout
-            android:id="@+id/camera_top_buttons_layout"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignParentBottom="false"
-            android:background="@drawable/shaded"
-            android:orientation="horizontal"
-            app:layout_constraintBottom_toTopOf="parent">
-
-            <com.android.mobicam.camera.customcomponents.BackButton
-                android:id="@+id/back_button_camera"
-                style="@style/IconOnlyButton"
-                android:layout_width="60dp"
-                android:layout_height="60dp"
-                android:background="@drawable/button"
-                app:icon="@drawable/back_button" />
-        </LinearLayout>
-
-    </com.android.mobicam.camera.customcomponents.CameraLayout>
-
-    <com.android.mobicam.display.customcomponents.DisplayLayout
-        android:id="@+id/displayLayout"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:background="@drawable/panels_background"
-        android:orientation="vertical">
-
-        <com.android.mobicam.display.customcomponents.VideoViewWebRTC
-            android:id="@+id/videoView"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent" />
-
-        <LinearLayout
-            android:id="@+id/display_top_buttons_layout"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignParentBottom="false"
-            android:background="@drawable/shaded"
-            android:orientation="horizontal"
-            app:layout_constraintBottom_toTopOf="parent">
-
-            <com.android.mobicam.display.customcomponents.BackButton
-                android:id="@+id/back_button"
-                style="@style/IconOnlyButton"
-                android:layout_width="60dp"
-                android:layout_height="60dp"
-                android:background="@drawable/button"
-                app:icon="@drawable/back_button" />
-        </LinearLayout>
-
-        <LinearLayout
-            android:id="@+id/video_controls"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignParentBottom="true"
-            android:background="@drawable/shaded"
-            android:orientation="vertical"
-            app:layout_constraintBottom_toBottomOf="parent">
-
-            <com.android.mobicam.display.customcomponents.Sound
-                android:id="@+id/sound"
-                style="@style/IconOnlyButton"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_gravity="center"
-                android:layout_margin="10dp"
-                app:icon="@drawable/volume_off_24" />
-
-            <com.android.mobicam.display.customcomponents.MirrorImage
-                android:id="@+id/mirror_image"
-                style="@style/IconOnlyButton"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_gravity="center"
-                android:layout_margin="10dp"
-                android:background="@drawable/button"
-                app:icon="@drawable/toggle_mirror" />
-
-        </LinearLayout>
-
-        <ImageView
-            android:id="@+id/camera_icon"
-            android:layout_width="40dp"
-            android:layout_height="40dp"
-            android:layout_alignParentRight="true"
-            android:layout_alignParentBottom="true"
-            android:layout_marginStart="10dp"
-            android:layout_marginTop="10dp"
-            android:layout_marginEnd="10dp"
-            android:layout_marginBottom="10dp"
-            android:src="@drawable/ic_video_camera_front_black_24dp"
-            app:tint="@color/blue" />
-
-<!--        <ImageView-->
-<!--            android:id="@+id/display_icon"-->
-<!--            android:layout_width="40dp"-->
-<!--            android:layout_height="40dp"-->
-<!--            android:layout_alignParentRight="true"-->
-<!--            android:layout_alignParentBottom="true"-->
-<!--            android:layout_marginStart="10dp"-->
-<!--            android:layout_marginTop="10dp"-->
-<!--            android:layout_marginEnd="10dp"-->
-<!--            android:layout_marginBottom="10dp"-->
-<!--            android:src="@drawable/ic_monitor_black_24dp"-->
-<!--            app:tint="@color/blue" />-->
-
-    </com.android.mobicam.display.customcomponents.DisplayLayout>
-
-</FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

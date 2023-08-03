@@ -13,4 +13,9 @@
     <string name="waiting_got_other_device_to_connect">Waiting for other\ndevice to connect...</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="start_capture">Start Capture</string>
+    <string name="stop_capture">Stop Capture</string>
 </resources>
+
+
