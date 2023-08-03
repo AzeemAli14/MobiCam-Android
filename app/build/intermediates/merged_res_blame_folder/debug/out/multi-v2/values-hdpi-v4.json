@@ -4,7 +4,7 @@
             "outputFile": "com.android.mobicam.app-mergeDebugResources-38:/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Salan\\.gradle\\caches\\transforms-3\\7dd72a4094334ff8d4df33af2954fa94\\transformed\\appcompat-1.5.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "source": "/Users/fahdtahir/.gradle/caches/transforms-3/7dd72a4094334ff8d4df33af2954fa94/transformed/appcompat-1.5.1/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

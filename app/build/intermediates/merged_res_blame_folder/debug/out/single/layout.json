@@ -1,46 +1,42 @@
 [
     {
-        "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-mergeDebugResources-39:\\layout\\activity_register.xml",
-        "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\layout\\activity_register.xml"
+        "merged": "com.android.mobicam.app-mergeDebugResources-39:/layout/fragment_profile.xml",
+        "source": "com.android.mobicam.app-main-42:/layout/fragment_profile.xml"
     },
     {
-        "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-mergeDebugResources-39:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\layout\\activity_main.xml"
+        "merged": "com.android.mobicam.app-mergeDebugResources-39:/layout/item_record.xml",
+        "source": "com.android.mobicam.app-main-42:/layout/item_record.xml"
     },
     {
-        "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-mergeDebugResources-39:\\layout\\activity_forgot.xml",
-        "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\layout\\activity_forgot.xml"
+        "merged": "com.android.mobicam.app-mergeDebugResources-39:/layout/dialog_forgot.xml",
+        "source": "com.android.mobicam.app-main-42:/layout/dialog_forgot.xml"
     },
     {
-        "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-mergeDebugResources-39:\\layout\\fragment_profile.xml",
-        "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\layout\\fragment_profile.xml"
+        "merged": "com.android.mobicam.app-mergeDebugResources-39:/layout/fragment_recording.xml",
+        "source": "com.android.mobicam.app-main-42:/layout/fragment_recording.xml"
     },
     {
-        "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-mergeDebugResources-39:\\layout\\dialog_forgot.xml",
-        "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\layout\\dialog_forgot.xml"
+        "merged": "com.android.mobicam.app-mergeDebugResources-39:/layout/activity_register.xml",
+        "source": "com.android.mobicam.app-main-42:/layout/activity_register.xml"
     },
     {
         "merged": "com.android.mobicam.app-mergeDebugResources-39:/layout/activity_main.xml",
         "source": "com.android.mobicam.app-main-42:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-mergeDebugResources-39:\\layout\\fragment_recording.xml",
-        "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\layout\\fragment_recording.xml"
+        "merged": "com.android.mobicam.app-mergeDebugResources-39:/layout/activity_home.xml",
+        "source": "com.android.mobicam.app-main-42:/layout/activity_home.xml"
     },
     {
-        "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-mergeDebugResources-39:\\layout\\item_record.xml",
-        "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\layout\\item_record.xml"
+        "merged": "com.android.mobicam.app-mergeDebugResources-39:/layout/activity_login.xml",
+        "source": "com.android.mobicam.app-main-42:/layout/activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-mergeDebugResources-39:\\layout\\activity_splash.xml",
-        "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\layout\\activity_splash.xml"
+        "merged": "com.android.mobicam.app-mergeDebugResources-39:/layout/activity_splash.xml",
+        "source": "com.android.mobicam.app-main-42:/layout/activity_splash.xml"
     },
     {
-        "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-mergeDebugResources-39:\\layout\\activity_home.xml",
-        "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\layout\\activity_home.xml"
-    },
-    {
-        "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-mergeDebugResources-39:\\layout\\activity_login.xml",
-        "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\layout\\activity_login.xml"
+        "merged": "com.android.mobicam.app-mergeDebugResources-39:/layout/activity_forgot.xml",
+        "source": "com.android.mobicam.app-main-42:/layout/activity_forgot.xml"
     }
 ]

@@ -33,7 +33,6 @@ class MainActivity : AppCompatActivity(), EasyPermissions.PermissionCallbacks,
 
     private lateinit var binding: ActivityMainBinding
     private val TAG = "MainActivity"
-    private lateinit var videoView: VideoView
     private var myRequestCode : Int = 123
 
     init {
@@ -42,12 +41,6 @@ class MainActivity : AppCompatActivity(), EasyPermissions.PermissionCallbacks,
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-//        videoView = findViewById(R.id.camera_icon)
-
-//        val mediaCollection = MediaController(this)
-//        mediaCollection.setAnchorView(videoView)
-//        videoView.setMediaController(mediaCollection)
-
         try {
             binding = ActivityMainBinding.inflate(layoutInflater)
         } catch (e: Exception) {

@@ -4,7 +4,7 @@
             "outputFile": "com.android.mobicam.app-mergeDebugResources-38:/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Salan\\.gradle\\caches\\transforms-3\\71adf9369e18b82f71c53715e9f7912d\\transformed\\material-1.6.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "/Users/fahdtahir/.gradle/caches/transforms-3/71adf9369e18b82f71c53715e9f7912d/transformed/material-1.6.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Salan\\.gradle\\caches\\transforms-3\\7dd72a4094334ff8d4df33af2954fa94\\transformed\\appcompat-1.5.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "/Users/fahdtahir/.gradle/caches/transforms-3/7dd72a4094334ff8d4df33af2954fa94/transformed/appcompat-1.5.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

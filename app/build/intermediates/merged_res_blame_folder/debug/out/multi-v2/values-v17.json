@@ -4,7 +4,7 @@
             "outputFile": "com.android.mobicam.app-mergeDebugResources-38:/values-v17/values-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Salan\\.gradle\\caches\\transforms-3\\7dd72a4094334ff8d4df33af2954fa94\\transformed\\appcompat-1.5.1\\res\\values-v17\\values-v17.xml",
+                    "source": "/Users/fahdtahir/.gradle/caches/transforms-3/7dd72a4094334ff8d4df33af2954fa94/transformed/appcompat-1.5.1/res/values-v17/values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

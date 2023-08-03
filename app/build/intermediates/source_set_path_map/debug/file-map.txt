@@ -1,43 +1,43 @@
-com.android.mobicam.app-jetified-play-services-base-18.0.1-0 C:\Users\Salan\.gradle\caches\transforms-3\173a4b441a0fe07c2d54311e2644703d\transformed\jetified-play-services-base-18.0.1\res
-com.android.mobicam.app-jetified-annotation-experimental-1.3.0-1 C:\Users\Salan\.gradle\caches\transforms-3\1c58cdd504e4ef892eaa91c95124fb28\transformed\jetified-annotation-experimental-1.3.0\res
-com.android.mobicam.app-jetified-emoji2-views-helper-1.2.0-2 C:\Users\Salan\.gradle\caches\transforms-3\3151f2cc6752cea8e7c1cdf6d8c0c733\transformed\jetified-emoji2-views-helper-1.2.0\res
-com.android.mobicam.app-lifecycle-viewmodel-2.5.1-3 C:\Users\Salan\.gradle\caches\transforms-3\3171589a2a40fa135e03dfc59d5c6912\transformed\lifecycle-viewmodel-2.5.1\res
-com.android.mobicam.app-jetified-tiles-material-1.1.0-alpha04-4 C:\Users\Salan\.gradle\caches\transforms-3\319df19cbd91c601161d320b499ba828\transformed\jetified-tiles-material-1.1.0-alpha04\res
-com.android.mobicam.app-core-1.9.0-5 C:\Users\Salan\.gradle\caches\transforms-3\357c367b0ade085d80a9f4aa04ed0337\transformed\core-1.9.0\res
-com.android.mobicam.app-jetified-firebase-common-20.3.2-6 C:\Users\Salan\.gradle\caches\transforms-3\410c10621d94e54600cc8f3de0a39209\transformed\jetified-firebase-common-20.3.2\res
-com.android.mobicam.app-jetified-core-1.5.0-7 C:\Users\Salan\.gradle\caches\transforms-3\4806eac4bdc2aa9d3f3b1631a3a914fc\transformed\jetified-core-1.5.0\res
-com.android.mobicam.app-coordinatorlayout-1.1.0-8 C:\Users\Salan\.gradle\caches\transforms-3\4889b17dd30c1fb35a04aa7027ef66f4\transformed\coordinatorlayout-1.1.0\res
-com.android.mobicam.app-cardview-1.0.0-9 C:\Users\Salan\.gradle\caches\transforms-3\4be0388d9367beb64cfb59bff5e4c944\transformed\cardview-1.0.0\res
-com.android.mobicam.app-jetified-startup-runtime-1.1.1-10 C:\Users\Salan\.gradle\caches\transforms-3\4d474cc48044b800063089097d7fe9dc\transformed\jetified-startup-runtime-1.1.1\res
-com.android.mobicam.app-recyclerview-1.1.0-11 C:\Users\Salan\.gradle\caches\transforms-3\6257b2eb7f81156ec5a3cf8dd89a2405\transformed\recyclerview-1.1.0\res
-com.android.mobicam.app-material-1.6.1-12 C:\Users\Salan\.gradle\caches\transforms-3\71adf9369e18b82f71c53715e9f7912d\transformed\material-1.6.1\res
-com.android.mobicam.app-appcompat-1.5.1-13 C:\Users\Salan\.gradle\caches\transforms-3\7dd72a4094334ff8d4df33af2954fa94\transformed\appcompat-1.5.1\res
-com.android.mobicam.app-jetified-circleimageview-3.1.0-14 C:\Users\Salan\.gradle\caches\transforms-3\7f9aaa9d36968e500286e66142052257\transformed\jetified-circleimageview-3.1.0\res
-com.android.mobicam.app-transition-1.2.0-15 C:\Users\Salan\.gradle\caches\transforms-3\820d4a57abb1702b93546da9203b4e0f\transformed\transition-1.2.0\res
-com.android.mobicam.app-jetified-lifecycle-process-2.4.1-16 C:\Users\Salan\.gradle\caches\transforms-3\8a6e24d594837475fbeebdfd16f7ad26\transformed\jetified-lifecycle-process-2.4.1\res
-com.android.mobicam.app-drawerlayout-1.1.1-17 C:\Users\Salan\.gradle\caches\transforms-3\901cd2e3454c03bb1669ba5f33ef9b27\transformed\drawerlayout-1.1.1\res
-com.android.mobicam.app-swiperefreshlayout-1.1.0-18 C:\Users\Salan\.gradle\caches\transforms-3\9086395549116edcf9ab93191b3d1d66\transformed\swiperefreshlayout-1.1.0\res
-com.android.mobicam.app-jetified-appcompat-resources-1.5.1-19 C:\Users\Salan\.gradle\caches\transforms-3\910f3e5466b660a30487370586b51ac8\transformed\jetified-appcompat-resources-1.5.1\res
-com.android.mobicam.app-lifecycle-livedata-core-2.5.1-20 C:\Users\Salan\.gradle\caches\transforms-3\97cd2307d0cf9b342183e17cdabe5f47\transformed\lifecycle-livedata-core-2.5.1\res
-com.android.mobicam.app-constraintlayout-2.1.4-21 C:\Users\Salan\.gradle\caches\transforms-3\9e74c42111143c62923e3ba585c0922b\transformed\constraintlayout-2.1.4\res
-com.android.mobicam.app-jetified-play-services-basement-18.1.0-22 C:\Users\Salan\.gradle\caches\transforms-3\a6b49bafc0f076e08dffae004f43bfa1\transformed\jetified-play-services-basement-18.1.0\res
-com.android.mobicam.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-23 C:\Users\Salan\.gradle\caches\transforms-3\ad5c55b596e371372fecd0e4e174c2a6\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
-com.android.mobicam.app-jetified-tiles-1.1.0-alpha04-24 C:\Users\Salan\.gradle\caches\transforms-3\afb7b909a7811188eb19c08ab5d6fa8e\transformed\jetified-tiles-1.1.0-alpha04\res
-com.android.mobicam.app-jetified-emoji2-1.2.0-25 C:\Users\Salan\.gradle\caches\transforms-3\c14f325ea46fdb4d2dc302f15ccc13b6\transformed\jetified-emoji2-1.2.0\res
-com.android.mobicam.app-jetified-viewpager2-1.0.0-26 C:\Users\Salan\.gradle\caches\transforms-3\c76cff4e0ca955f42dd8e95085e7aa6f\transformed\jetified-viewpager2-1.0.0\res
-com.android.mobicam.app-jetified-core-ktx-1.9.0-27 C:\Users\Salan\.gradle\caches\transforms-3\ced3c89c005685df1b4f96c5737dda57\transformed\jetified-core-ktx-1.9.0\res
-com.android.mobicam.app-fragment-1.3.6-28 C:\Users\Salan\.gradle\caches\transforms-3\d28fb650bf8f4b87751a12c3f786d2df\transformed\fragment-1.3.6\res
-com.android.mobicam.app-browser-1.4.0-29 C:\Users\Salan\.gradle\caches\transforms-3\d4915932bbb61d78f5b9a6438148d742\transformed\browser-1.4.0\res
-com.android.mobicam.app-jetified-savedstate-1.2.0-30 C:\Users\Salan\.gradle\caches\transforms-3\d63f4eb6c17370c3f67397d4319f8a79\transformed\jetified-savedstate-1.2.0\res
-com.android.mobicam.app-lifecycle-runtime-2.5.1-31 C:\Users\Salan\.gradle\caches\transforms-3\dec983005f693604dfaf686466aa0efa\transformed\lifecycle-runtime-2.5.1\res
-com.android.mobicam.app-jetified-activity-1.5.1-32 C:\Users\Salan\.gradle\caches\transforms-3\ea96e35c65edde46ee77a7272cd8b703\transformed\jetified-activity-1.5.1\res
-com.android.mobicam.app-jetified-easypermissions-2.0.1-33 C:\Users\Salan\.gradle\caches\transforms-3\f5f3551ac9bb7ecebff47aaccda94983\transformed\jetified-easypermissions-2.0.1\res
-com.android.mobicam.app-google-services-34 C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\build\generated\res\google-services\debug
-com.android.mobicam.app-pngs-35 C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\build\generated\res\pngs\debug
-com.android.mobicam.app-resValues-36 C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\build\generated\res\resValues\debug
-com.android.mobicam.app-rs-37 C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\build\generated\res\rs\debug
-com.android.mobicam.app-mergeDebugResources-38 C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
-com.android.mobicam.app-mergeDebugResources-39 C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
-com.android.mobicam.app-merged_res-40 C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\build\intermediates\merged_res\debug
-com.android.mobicam.app-debug-41 C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\debug\res
-com.android.mobicam.app-main-42 C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\res
+com.android.mobicam.app-jetified-play-services-base-18.0.1-0 /Users/fahdtahir/.gradle/caches/transforms-3/173a4b441a0fe07c2d54311e2644703d/transformed/jetified-play-services-base-18.0.1/res
+com.android.mobicam.app-jetified-annotation-experimental-1.3.0-1 /Users/fahdtahir/.gradle/caches/transforms-3/1c58cdd504e4ef892eaa91c95124fb28/transformed/jetified-annotation-experimental-1.3.0/res
+com.android.mobicam.app-jetified-emoji2-views-helper-1.2.0-2 /Users/fahdtahir/.gradle/caches/transforms-3/3151f2cc6752cea8e7c1cdf6d8c0c733/transformed/jetified-emoji2-views-helper-1.2.0/res
+com.android.mobicam.app-lifecycle-viewmodel-2.5.1-3 /Users/fahdtahir/.gradle/caches/transforms-3/3171589a2a40fa135e03dfc59d5c6912/transformed/lifecycle-viewmodel-2.5.1/res
+com.android.mobicam.app-jetified-tiles-material-1.1.0-alpha04-4 /Users/fahdtahir/.gradle/caches/transforms-3/319df19cbd91c601161d320b499ba828/transformed/jetified-tiles-material-1.1.0-alpha04/res
+com.android.mobicam.app-core-1.9.0-5 /Users/fahdtahir/.gradle/caches/transforms-3/357c367b0ade085d80a9f4aa04ed0337/transformed/core-1.9.0/res
+com.android.mobicam.app-jetified-firebase-common-20.3.2-6 /Users/fahdtahir/.gradle/caches/transforms-3/410c10621d94e54600cc8f3de0a39209/transformed/jetified-firebase-common-20.3.2/res
+com.android.mobicam.app-jetified-core-1.5.0-7 /Users/fahdtahir/.gradle/caches/transforms-3/4806eac4bdc2aa9d3f3b1631a3a914fc/transformed/jetified-core-1.5.0/res
+com.android.mobicam.app-coordinatorlayout-1.1.0-8 /Users/fahdtahir/.gradle/caches/transforms-3/4889b17dd30c1fb35a04aa7027ef66f4/transformed/coordinatorlayout-1.1.0/res
+com.android.mobicam.app-cardview-1.0.0-9 /Users/fahdtahir/.gradle/caches/transforms-3/4be0388d9367beb64cfb59bff5e4c944/transformed/cardview-1.0.0/res
+com.android.mobicam.app-jetified-startup-runtime-1.1.1-10 /Users/fahdtahir/.gradle/caches/transforms-3/4d474cc48044b800063089097d7fe9dc/transformed/jetified-startup-runtime-1.1.1/res
+com.android.mobicam.app-recyclerview-1.1.0-11 /Users/fahdtahir/.gradle/caches/transforms-3/6257b2eb7f81156ec5a3cf8dd89a2405/transformed/recyclerview-1.1.0/res
+com.android.mobicam.app-material-1.6.1-12 /Users/fahdtahir/.gradle/caches/transforms-3/71adf9369e18b82f71c53715e9f7912d/transformed/material-1.6.1/res
+com.android.mobicam.app-appcompat-1.5.1-13 /Users/fahdtahir/.gradle/caches/transforms-3/7dd72a4094334ff8d4df33af2954fa94/transformed/appcompat-1.5.1/res
+com.android.mobicam.app-jetified-circleimageview-3.1.0-14 /Users/fahdtahir/.gradle/caches/transforms-3/7f9aaa9d36968e500286e66142052257/transformed/jetified-circleimageview-3.1.0/res
+com.android.mobicam.app-transition-1.2.0-15 /Users/fahdtahir/.gradle/caches/transforms-3/820d4a57abb1702b93546da9203b4e0f/transformed/transition-1.2.0/res
+com.android.mobicam.app-jetified-lifecycle-process-2.4.1-16 /Users/fahdtahir/.gradle/caches/transforms-3/8a6e24d594837475fbeebdfd16f7ad26/transformed/jetified-lifecycle-process-2.4.1/res
+com.android.mobicam.app-drawerlayout-1.1.1-17 /Users/fahdtahir/.gradle/caches/transforms-3/901cd2e3454c03bb1669ba5f33ef9b27/transformed/drawerlayout-1.1.1/res
+com.android.mobicam.app-swiperefreshlayout-1.1.0-18 /Users/fahdtahir/.gradle/caches/transforms-3/9086395549116edcf9ab93191b3d1d66/transformed/swiperefreshlayout-1.1.0/res
+com.android.mobicam.app-jetified-appcompat-resources-1.5.1-19 /Users/fahdtahir/.gradle/caches/transforms-3/910f3e5466b660a30487370586b51ac8/transformed/jetified-appcompat-resources-1.5.1/res
+com.android.mobicam.app-lifecycle-livedata-core-2.5.1-20 /Users/fahdtahir/.gradle/caches/transforms-3/97cd2307d0cf9b342183e17cdabe5f47/transformed/lifecycle-livedata-core-2.5.1/res
+com.android.mobicam.app-constraintlayout-2.1.4-21 /Users/fahdtahir/.gradle/caches/transforms-3/9e74c42111143c62923e3ba585c0922b/transformed/constraintlayout-2.1.4/res
+com.android.mobicam.app-jetified-play-services-basement-18.1.0-22 /Users/fahdtahir/.gradle/caches/transforms-3/a6b49bafc0f076e08dffae004f43bfa1/transformed/jetified-play-services-basement-18.1.0/res
+com.android.mobicam.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-23 /Users/fahdtahir/.gradle/caches/transforms-3/ad5c55b596e371372fecd0e4e174c2a6/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/res
+com.android.mobicam.app-jetified-tiles-1.1.0-alpha04-24 /Users/fahdtahir/.gradle/caches/transforms-3/afb7b909a7811188eb19c08ab5d6fa8e/transformed/jetified-tiles-1.1.0-alpha04/res
+com.android.mobicam.app-jetified-emoji2-1.2.0-25 /Users/fahdtahir/.gradle/caches/transforms-3/c14f325ea46fdb4d2dc302f15ccc13b6/transformed/jetified-emoji2-1.2.0/res
+com.android.mobicam.app-jetified-viewpager2-1.0.0-26 /Users/fahdtahir/.gradle/caches/transforms-3/c76cff4e0ca955f42dd8e95085e7aa6f/transformed/jetified-viewpager2-1.0.0/res
+com.android.mobicam.app-jetified-core-ktx-1.9.0-27 /Users/fahdtahir/.gradle/caches/transforms-3/ced3c89c005685df1b4f96c5737dda57/transformed/jetified-core-ktx-1.9.0/res
+com.android.mobicam.app-fragment-1.3.6-28 /Users/fahdtahir/.gradle/caches/transforms-3/d28fb650bf8f4b87751a12c3f786d2df/transformed/fragment-1.3.6/res
+com.android.mobicam.app-browser-1.4.0-29 /Users/fahdtahir/.gradle/caches/transforms-3/d4915932bbb61d78f5b9a6438148d742/transformed/browser-1.4.0/res
+com.android.mobicam.app-jetified-savedstate-1.2.0-30 /Users/fahdtahir/.gradle/caches/transforms-3/d63f4eb6c17370c3f67397d4319f8a79/transformed/jetified-savedstate-1.2.0/res
+com.android.mobicam.app-lifecycle-runtime-2.5.1-31 /Users/fahdtahir/.gradle/caches/transforms-3/dec983005f693604dfaf686466aa0efa/transformed/lifecycle-runtime-2.5.1/res
+com.android.mobicam.app-jetified-activity-1.5.1-32 /Users/fahdtahir/.gradle/caches/transforms-3/ea96e35c65edde46ee77a7272cd8b703/transformed/jetified-activity-1.5.1/res
+com.android.mobicam.app-jetified-easypermissions-2.0.1-33 /Users/fahdtahir/.gradle/caches/transforms-3/f5f3551ac9bb7ecebff47aaccda94983/transformed/jetified-easypermissions-2.0.1/res
+com.android.mobicam.app-google-services-34 /Users/fahdtahir/Brainstorming/Android/MobiCam-Android/app/build/generated/res/google-services/debug
+com.android.mobicam.app-pngs-35 /Users/fahdtahir/Brainstorming/Android/MobiCam-Android/app/build/generated/res/pngs/debug
+com.android.mobicam.app-resValues-36 /Users/fahdtahir/Brainstorming/Android/MobiCam-Android/app/build/generated/res/resValues/debug
+com.android.mobicam.app-rs-37 /Users/fahdtahir/Brainstorming/Android/MobiCam-Android/app/build/generated/res/rs/debug
+com.android.mobicam.app-mergeDebugResources-38 /Users/fahdtahir/Brainstorming/Android/MobiCam-Android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.android.mobicam.app-mergeDebugResources-39 /Users/fahdtahir/Brainstorming/Android/MobiCam-Android/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.android.mobicam.app-merged_res-40 /Users/fahdtahir/Brainstorming/Android/MobiCam-Android/app/build/intermediates/merged_res/debug
+com.android.mobicam.app-debug-41 /Users/fahdtahir/Brainstorming/Android/MobiCam-Android/app/src/debug/res
+com.android.mobicam.app-main-42 /Users/fahdtahir/Brainstorming/Android/MobiCam-Android/app/src/main/res
