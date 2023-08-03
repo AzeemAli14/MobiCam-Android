@@ -45,6 +45,7 @@ class VideosActivity : AppCompatActivity() {
                 //setup adapter
                 adapterVideo = AdapterVideo(this@VideosActivity, videoArrayList)
                 //set adapter to recyclerview
+                // android:id="@+id/videosRv in activity_videos.xml
 //                videoRv.adapter = adapterVideo
             }
 
