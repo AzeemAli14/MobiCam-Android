@@ -2496,12 +2496,15 @@ drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
 drawable back_button
+drawable baseline_add_circle_24
 drawable baseline_alternate_email_24
 drawable baseline_camera_roll_24
+drawable baseline_delete_24
 drawable baseline_lock_24
 drawable baseline_person_24
 drawable baseline_phone_iphone_24
 drawable baseline_photo_camera_24
+drawable baseline_save_alt_24
 drawable border_shadow
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
@@ -2679,6 +2682,7 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id addVideoFab
 id adjust_height
 id adjust_width
 id alertTitle
@@ -2775,6 +2779,7 @@ id decelerate
 id decelerateAndComplete
 id decor_content_parent
 id default_activity_button
+id deleteFab
 id deltaRelative
 id dependency_ordering
 id design_bottom_sheet
@@ -2795,6 +2800,7 @@ id disjoint
 id displayLayout
 id displayPanel
 id display_top_buttons_layout
+id downloadFab
 id dragAnticlockwise
 id dragClockwise
 id dragDown
@@ -2983,6 +2989,7 @@ id onInterceptTouchReturnSwipe
 id outline
 id outward
 id overshoot
+id pBar
 id packed
 id parallax
 id parent
@@ -3123,8 +3130,10 @@ id til_register_name
 id til_register_pass
 id til_register_phone
 id time
+id timeTv
 id title
 id titleDividerNoCustom
+id titleTv
 id title_template
 id toggle
 id top
@@ -3144,11 +3153,13 @@ id unlabeled
 id up
 id useLogo
 id userName
+id vView
 id vertical_only
 id videoView
 id videoWindow
 id video_controls
 id video_controls_camera
+id videosRv
 id view_offset_helper
 id view_transition
 id view_tree_lifecycle_owner
@@ -3268,6 +3279,7 @@ layout activity_login
 layout activity_main
 layout activity_register
 layout activity_splash
+layout activity_videos
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
 layout custom_dialog
@@ -3344,6 +3356,7 @@ layout notification_template_custom_big
 layout notification_template_icon_group
 layout notification_template_part_chronometer
 layout notification_template_part_time
+layout player_video
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material

@@ -2495,12 +2495,15 @@ int drawable abc_vector_test 0x7f070054
 int drawable avd_hide_password 0x7f070055
 int drawable avd_show_password 0x7f070056
 int drawable back_button 0x7f070057
+int drawable baseline_add_circle_24 0x7f0700c7
 int drawable baseline_alternate_email_24 0x7f070058
 int drawable baseline_camera_roll_24 0x7f070059
+int drawable baseline_delete_24 0x7f0700c8
 int drawable baseline_lock_24 0x7f07005a
 int drawable baseline_person_24 0x7f07005b
 int drawable baseline_phone_iphone_24 0x7f07005c
 int drawable baseline_photo_camera_24 0x7f07005d
+int drawable baseline_save_alt_24 0x7f0700c9
 int drawable border_shadow 0x7f07005e
 int drawable btn_checkbox_checked_mtrl 0x7f07005f
 int drawable btn_checkbox_checked_to_unchecked_mtrl_animation 0x7f070060
@@ -2678,6 +2681,7 @@ int id action_text 0x7f080044
 int id actions 0x7f080045
 int id activity_chooser_view_content 0x7f080046
 int id add 0x7f080047
+int id addVideoFab 0x7f080234
 int id adjust_height 0x7f080048
 int id adjust_width 0x7f080049
 int id alertTitle 0x7f08004a
@@ -2774,6 +2778,7 @@ int id decelerate 0x7f0800a5
 int id decelerateAndComplete 0x7f0800a6
 int id decor_content_parent 0x7f0800a7
 int id default_activity_button 0x7f0800a8
+int id deleteFab 0x7f080235
 int id deltaRelative 0x7f0800a9
 int id dependency_ordering 0x7f0800aa
 int id design_bottom_sheet 0x7f0800ab
@@ -2794,6 +2799,7 @@ int id disjoint 0x7f0800b9
 int id displayLayout 0x7f0800ba
 int id displayPanel 0x7f0800bb
 int id display_top_buttons_layout 0x7f0800bd
+int id downloadFab 0x7f080236
 int id dragAnticlockwise 0x7f0800be
 int id dragClockwise 0x7f0800bf
 int id dragDown 0x7f0800c0
@@ -2982,6 +2988,7 @@ int id onInterceptTouchReturnSwipe 0x7f080176
 int id outline 0x7f080177
 int id outward 0x7f080178
 int id overshoot 0x7f080179
+int id pBar 0x7f080237
 int id packed 0x7f08017a
 int id parallax 0x7f08017b
 int id parent 0x7f08017c
@@ -3122,8 +3129,10 @@ int id til_register_name 0x7f080202
 int id til_register_pass 0x7f080203
 int id til_register_phone 0x7f080204
 int id time 0x7f080205
+int id timeTv 0x7f080238
 int id title 0x7f080206
 int id titleDividerNoCustom 0x7f080207
+int id titleTv 0x7f080239
 int id title_template 0x7f080208
 int id toggle 0x7f080209
 int id top 0x7f08020a
@@ -3143,11 +3152,13 @@ int id unlabeled 0x7f080217
 int id up 0x7f080218
 int id useLogo 0x7f080219
 int id userName 0x7f08021a
+int id vView 0x7f08023a
 int id vertical_only 0x7f08021b
 int id videoView 0x7f08021c
 int id videoWindow 0x7f08021d
 int id video_controls 0x7f08021e
 int id video_controls_camera 0x7f08021f
+int id videosRv 0x7f08023b
 int id view_offset_helper 0x7f080220
 int id view_transition 0x7f080221
 int id view_tree_lifecycle_owner 0x7f080222
@@ -3267,6 +3278,7 @@ int layout activity_login 0x7f0b001e
 int layout activity_main 0x7f0b001f
 int layout activity_register 0x7f0b0020
 int layout activity_splash 0x7f0b0021
+int layout activity_videos 0x7f0b0082
 int layout browser_actions_context_menu_page 0x7f0b0022
 int layout browser_actions_context_menu_row 0x7f0b0023
 int layout custom_dialog 0x7f0b0024
@@ -3343,6 +3355,7 @@ int layout notification_template_custom_big 0x7f0b006a
 int layout notification_template_icon_group 0x7f0b006b
 int layout notification_template_part_chronometer 0x7f0b006c
 int layout notification_template_part_time 0x7f0b006d
+int layout player_video 0x7f0b0083
 int layout select_dialog_item_material 0x7f0b006e
 int layout select_dialog_multichoice_material 0x7f0b006f
 int layout select_dialog_singlechoice_material 0x7f0b0070

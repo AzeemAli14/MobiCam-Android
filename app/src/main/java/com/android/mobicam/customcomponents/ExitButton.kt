@@ -7,6 +7,7 @@ import android.util.AttributeSet
 import android.view.MotionEvent
 import android.view.View
 import com.android.mobicam.HomeActivity
+import com.android.mobicam.VideosActivity
 import kotlin.system.exitProcess
 
 class ExitButton @JvmOverloads constructor(
@@ -20,7 +21,7 @@ class ExitButton @JvmOverloads constructor(
     inner class OnTouchListener : View.OnTouchListener {
         override fun onTouch(v: View?, event: MotionEvent?): Boolean {
             (context as Activity)?.let {
-                val intent = Intent (it, HomeActivity::class.java)
+                val intent = Intent (it, VideosActivity::class.java)
                 it.startActivity(intent)
             }
             return true

@@ -16,12 +16,16 @@
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\layout\\activity_splash.xml"
     },
     {
-        "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "com.android.mobicam.app-merged_res-40:/layout_player_video.xml.flat",
+        "source": "com.android.mobicam.app-main-42:/layout/player_video.xml"
     },
     {
         "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\drawable-v24_volume_up_24.xml.flat",
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\drawable-v24\\volume_up_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -64,12 +68,12 @@
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\drawable\\baseline_person_24.xml"
     },
     {
-        "merged": "com.android.mobicam.app-merged_res-40:/layout_activity_main.xml.flat",
-        "source": "com.android.mobicam.app-main-42:/layout/activity_main.xml"
-    },
-    {
         "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.android.mobicam.app-merged_res-40:/drawable_baseline_delete_24.xml.flat",
+        "source": "com.android.mobicam.app-main-42:/drawable/baseline_delete_24.xml"
     },
     {
         "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\drawable-v24_panels_background.xml.flat",
@@ -96,6 +100,10 @@
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "com.android.mobicam.app-merged_res-40:/layout_activity_videos.xml.flat",
+        "source": "com.android.mobicam.app-main-42:/layout/activity_videos.xml"
+    },
+    {
         "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\drawable_rounded_button.xml.flat",
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\drawable\\rounded_button.xml"
     },
@@ -106,6 +114,10 @@
     {
         "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\drawable_baseline_phone_iphone_24.xml.flat",
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\drawable\\baseline_phone_iphone_24.xml"
+    },
+    {
+        "merged": "com.android.mobicam.app-merged_res-40:/drawable_baseline_add_circle_24.xml.flat",
+        "source": "com.android.mobicam.app-main-42:/drawable/baseline_add_circle_24.xml"
     },
     {
         "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\drawable-v24_ic_flip_camera.xml.flat",
@@ -182,6 +194,10 @@
     {
         "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\layout_activity_home.xml.flat",
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "com.android.mobicam.app-merged_res-40:/drawable_baseline_save_alt_24.xml.flat",
+        "source": "com.android.mobicam.app-main-42:/drawable/baseline_save_alt_24.xml"
     },
     {
         "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\drawable-v24_volume_off_24.xml.flat",
