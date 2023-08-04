@@ -42,6 +42,8 @@ class MainActivity : AppCompatActivity(), EasyPermissions.PermissionCallbacks,
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
+        //Initializing value for Camera Recording
 //        videoView = findViewById(R.id.camera_icon)
 
 //        val mediaCollection = MediaController(this)
@@ -78,6 +80,7 @@ class MainActivity : AppCompatActivity(), EasyPermissions.PermissionCallbacks,
         ProgressEvents.onNext(ProgressEvents.Events.ShowWaitingForConnectionScreen)
     }
 
+    //OnClick Function for Camera Recording
 //    fun startVideo(view: View) {
 //        val intent = Intent(MediaStore.ACTION_VIDEO_CAPTURE)
 //        if(intent.resolveActivity(packageManager)!= null) {

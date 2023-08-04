@@ -17,6 +17,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".RecordingActivity"
+            android:exported="false" />
+        <activity
             android:name=".VideosActivity"
             android:exported="false" />
         <activity
