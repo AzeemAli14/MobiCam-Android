@@ -2556,6 +2556,8 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_stop
+drawable ic_video
 drawable ic_video_camera_front_black_24dp
 drawable logo
 drawable logo2
@@ -3136,6 +3138,7 @@ id titleDividerNoCustom
 id titleTv
 id title_template
 id toggle
+id toggleBtn
 id top
 id topPanel
 id touch_outside
@@ -3277,6 +3280,7 @@ layout activity_forgot
 layout activity_home
 layout activity_login
 layout activity_main
+layout activity_recording
 layout activity_register
 layout activity_splash
 layout activity_videos

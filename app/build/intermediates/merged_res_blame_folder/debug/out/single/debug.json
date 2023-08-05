@@ -16,16 +16,16 @@
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\layout\\activity_splash.xml"
     },
     {
-        "merged": "com.android.mobicam.app-merged_res-40:/layout_player_video.xml.flat",
-        "source": "com.android.mobicam.app-main-42:/layout/player_video.xml"
+        "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\drawable-v24_volume_up_24.xml.flat",
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\drawable-v24\\volume_up_24.xml"
     },
     {
-        "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\drawable_baseline_add_circle_24.xml.flat",
+        "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\drawable\\baseline_add_circle_24.xml"
     },
     {
         "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -38,6 +38,10 @@
     {
         "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.android.mobicam.app-merged_res-40:/layout_activity_recording.xml.flat",
+        "source": "com.android.mobicam.app-main-42:/layout/activity_recording.xml"
     },
     {
         "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\mipmap-xhdpi_ic_launcher_round.png.flat",
@@ -72,10 +76,6 @@
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.android.mobicam.app-merged_res-40:/drawable_baseline_delete_24.xml.flat",
-        "source": "com.android.mobicam.app-main-42:/drawable/baseline_delete_24.xml"
-    },
-    {
         "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\drawable-v24_panels_background.xml.flat",
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\drawable-v24\\panels_background.xml"
     },
@@ -100,10 +100,6 @@
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.android.mobicam.app-merged_res-40:/layout_activity_videos.xml.flat",
-        "source": "com.android.mobicam.app-main-42:/layout/activity_videos.xml"
-    },
-    {
         "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\drawable_rounded_button.xml.flat",
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\drawable\\rounded_button.xml"
     },
@@ -116,16 +112,16 @@
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\drawable\\baseline_phone_iphone_24.xml"
     },
     {
-        "merged": "com.android.mobicam.app-merged_res-40:/drawable_baseline_add_circle_24.xml.flat",
-        "source": "com.android.mobicam.app-main-42:/drawable/baseline_add_circle_24.xml"
-    },
-    {
         "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\drawable-v24_ic_flip_camera.xml.flat",
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\drawable-v24\\ic_flip_camera.xml"
     },
     {
         "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\drawable_baseline_camera_roll_24.xml.flat",
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\drawable\\baseline_camera_roll_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\drawable_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\drawable\\baseline_delete_24.xml"
     },
     {
         "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -172,6 +168,14 @@
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\drawable-v24\\ic_flashlight_on.xml"
     },
     {
+        "merged": "com.android.mobicam.app-merged_res-40:/drawable_ic_video.xml.flat",
+        "source": "com.android.mobicam.app-main-42:/drawable/ic_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\layout_player_video.xml.flat",
+        "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\layout\\player_video.xml"
+    },
+    {
         "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\drawable_ic_video_camera_front_black_24dp.xml.flat",
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\drawable\\ic_video_camera_front_black_24dp.xml"
     },
@@ -196,10 +200,6 @@
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\layout\\activity_home.xml"
     },
     {
-        "merged": "com.android.mobicam.app-merged_res-40:/drawable_baseline_save_alt_24.xml.flat",
-        "source": "com.android.mobicam.app-main-42:/drawable/baseline_save_alt_24.xml"
-    },
-    {
         "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\drawable-v24_volume_off_24.xml.flat",
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\drawable-v24\\volume_off_24.xml"
     },
@@ -208,8 +208,16 @@
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\layout\\fragment_profile.xml"
     },
     {
+        "merged": "com.android.mobicam.app-merged_res-40:/drawable_ic_stop.xml.flat",
+        "source": "com.android.mobicam.app-main-42:/drawable/ic_stop.xml"
+    },
+    {
         "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\drawable_baseline_save_alt_24.xml.flat",
+        "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\drawable\\baseline_save_alt_24.xml"
     },
     {
         "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\mipmap-hdpi_ic_launcher.png.flat",
@@ -218,6 +226,10 @@
     {
         "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
         "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\layout_activity_videos.xml.flat",
+        "source": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-main-42:\\layout\\activity_videos.xml"
     },
     {
         "merged": "C:\\Users\\Salan\\.gradle\\daemon\\7.5\\com.android.mobicam.app-merged_res-40:\\drawable_logo.png.flat",

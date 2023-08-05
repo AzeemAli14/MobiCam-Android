@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:2:1-55:12
+ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:2:1-58:12
 MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\Salan\.gradle\caches\transforms-3\42c68ecbbd1929e72c9c78806777829f\transformed\jetified-viewbinding-7.4.2\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Salan\.gradle\caches\transforms-3\9086395549116edcf9ab93191b3d1d66\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Salan\.gradle\caches\transforms-3\71adf9369e18b82f71c53715e9f7912d\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
@@ -91,20 +91,20 @@ MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\Salan\.gradle\caches
 MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\Salan\.gradle\caches\transforms-3\06f6b408ca67b999d06c40602aa0aab5\transformed\jetified-timber-4.7.1\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Salan\.gradle\caches\transforms-3\b3efe0113279ea20ff60efb5eeaf8b84\transformed\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
 MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\Salan\.gradle\caches\transforms-3\4011e050502c087792d19f94b92d3313\transformed\jetified-grpc-android-1.52.1\AndroidManifest.xml:2:1-11:12
-INJECTED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:2:1-58:12
 	package
 		INJECTED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:2:1-55:12
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:2:1-58:12
 		INJECTED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:2:1-55:12
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:2:1-58:12
 		INJECTED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:2:1-55:12
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:2:1-58:12
 		INJECTED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:2:11-69
@@ -169,7 +169,7 @@ ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\A
 	android:name
 		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:10:22-78
 application
-ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:12:5-53:19
+ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:12:5-56:19
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Salan\.gradle\caches\transforms-3\71adf9369e18b82f71c53715e9f7912d\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Salan\.gradle\caches\transforms-3\71adf9369e18b82f71c53715e9f7912d\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Salan\.gradle\caches\transforms-3\9e74c42111143c62923e3ba585c0922b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -252,72 +252,78 @@ MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\Salan\.gradle\caches\
 		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:13:9-35
 	android:theme
 		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:18:9-40
-activity#com.android.mobicam.VideosActivity
+activity#com.android.mobicam.RecordingActivity
 ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:19:9-21:40
 	android:exported
 		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:21:13-37
 	android:name
-		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:20:13-43
-activity#com.android.mobicam.HomeActivity
-ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:22:9-25:50
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:20:13-46
+activity#com.android.mobicam.VideosActivity
+ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:22:9-24:40
 	android:exported
 		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:24:13-37
-	android:theme
-		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:25:13-47
 	android:name
-		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:23:13-41
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:23:13-43
+activity#com.android.mobicam.HomeActivity
+ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:25:9-28:50
+	android:exported
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:27:13-37
+	android:theme
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:28:13-47
+	android:name
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:26:13-41
 activity#com.android.mobicam.ForgotActivity
-ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:26:9-29:50
+ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:29:9-32:50
 	android:exported
-		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:28:13-37
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:31:13-37
 	android:theme
-		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:29:13-47
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:32:13-47
 	android:name
-		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:27:13-43
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:30:13-43
 activity#com.android.mobicam.RegisterActivity
-ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:30:9-33:50
+ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:33:9-36:50
 	android:exported
-		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:32:13-37
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:35:13-37
 	android:theme
-		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:33:13-47
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:36:13-47
 	android:name
-		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:31:13-45
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:34:13-45
 activity#com.android.mobicam.SplashActivity
-ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:34:9-43:20
+ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:37:9-46:20
 	android:exported
-		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:36:13-36
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:39:13-36
 	android:theme
-		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:37:13-48
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:40:13-48
 	android:name
-		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:35:13-43
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:38:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:38:13-42:29
+ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:41:13-45:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:39:17-69
+ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:42:17-69
 	android:name
-		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:39:25-66
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:42:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:41:17-77
+ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:44:17-77
 	android:name
-		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:41:27-74
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:44:27-74
 activity#com.android.mobicam.LoginActivity
-ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:44:9-47:50
+ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:47:9-50:50
 	android:exported
-		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:46:13-36
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:49:13-36
 	android:theme
-		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:47:13-47
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:50:13-47
 	android:name
-		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:45:13-42
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:48:13-42
 activity#com.android.mobicam.MainActivity
-ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:48:9-52:47
+ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:51:9-55:47
 	android:label
-		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:51:13-45
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:54:13-45
 	android:exported
-		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:50:13-36
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:53:13-36
 	android:theme
-		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:52:13-44
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:55:13-44
 	android:name
-		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:49:13-41
+		ADDED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml:52:13-41
 uses-sdk
 INJECTED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Salan\Documents\Final Project - CS619\MobiCam\app\src\main\AndroidManifest.xml
