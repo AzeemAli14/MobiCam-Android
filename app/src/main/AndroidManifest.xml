@@ -18,9 +18,12 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".ScreenRecord"
-            android:foregroundServiceType="mediaProjection"
+            android:name=".Camera_Record"
             android:exported="false" />
+        <activity
+            android:name=".ScreenRecord"
+            android:exported="false"
+            android:foregroundServiceType="mediaProjection" />
         <activity
             android:name=".RecordingActivity"
             android:exported="false" />
@@ -59,10 +62,9 @@
             android:label="@string/app_name"
             android:theme="@style/AppTheme" />
 
-        <service android:name=".ScreenRecord"
-            android:foregroundServiceType="mediaProjection">
-
-        </service>
+        <service
+            android:name=".ScreenRecord"
+            android:foregroundServiceType="mediaProjection"></service>
     </application>
 
 </manifest>
