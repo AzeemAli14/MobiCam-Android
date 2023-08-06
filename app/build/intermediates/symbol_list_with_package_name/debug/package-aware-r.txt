@@ -3019,6 +3019,7 @@ id right
 id rightToLeft
 id right_icon
 id right_side
+id rootLayout
 id rounded
 id row_index_key
 id save_non_transition_alpha
@@ -3139,6 +3140,7 @@ id titleTv
 id title_template
 id toggle
 id toggleBtn
+id toggleButton
 id top
 id topPanel
 id touch_outside
@@ -3282,6 +3284,7 @@ layout activity_login
 layout activity_main
 layout activity_recording
 layout activity_register
+layout activity_screen_record
 layout activity_splash
 layout activity_videos
 layout browser_actions_context_menu_page

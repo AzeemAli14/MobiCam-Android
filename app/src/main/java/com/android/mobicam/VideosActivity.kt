@@ -7,6 +7,7 @@ import com.google.firebase.database.DataSnapshot
 import com.google.firebase.database.DatabaseError
 import com.google.firebase.database.FirebaseDatabase
 import com.google.firebase.database.ValueEventListener
+import kotlinx.android.synthetic.main.activity_videos.*
 
 class VideosActivity : AppCompatActivity() {
 
@@ -22,10 +23,10 @@ class VideosActivity : AppCompatActivity() {
 
         loadVideosFromFirebase()
 
-//        addVideoFab.setOnClickListener {
+        addVideoFab.setOnClickListener {
 //            This will intent user to MainActivity
-//            startActivity(Intent(this, MainActivity::class.java))
-//        }
+            startActivity(Intent(this, MainActivity::class.java))
+        }
     }
 
     private fun loadVideosFromFirebase() {
@@ -45,8 +46,7 @@ class VideosActivity : AppCompatActivity() {
                 //setup adapter
                 adapterVideo = AdapterVideo(this@VideosActivity, videoArrayList)
                 //set adapter to recyclerview
-                // android:id="@+id/videosRv from activity_videos.xml
-//                videoRv.adapter = adapterVideo
+                videosRv.adapter = adapterVideo
             }
 
             override fun onCancelled(error: DatabaseError) {
