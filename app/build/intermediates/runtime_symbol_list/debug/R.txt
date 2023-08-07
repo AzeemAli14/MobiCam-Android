@@ -3003,6 +3003,7 @@ int id pathRelative 0x7f080184
 int id peekHeight 0x7f080185
 int id percent 0x7f080186
 int id phoneNumber 0x7f080187
+int id pickVideoFab 0x7f08023d
 int id pin 0x7f080188
 int id position 0x7f080189
 int id postLayout 0x7f08018a
@@ -3135,6 +3136,7 @@ int id time 0x7f080208
 int id timeTv 0x7f080209
 int id title 0x7f08020a
 int id titleDividerNoCustom 0x7f08020b
+int id titleEt 0x7f08023e
 int id titleTv 0x7f08020c
 int id title_template 0x7f08020d
 int id toggle 0x7f08020e
@@ -3155,6 +3157,7 @@ int id unchecked 0x7f08021c
 int id uniform 0x7f08021d
 int id unlabeled 0x7f08021e
 int id up 0x7f08021f
+int id uploadVideoBtn 0x7f08023f
 int id useLogo 0x7f080220
 int id userName 0x7f080221
 int id vView 0x7f080222
@@ -3277,6 +3280,8 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0b0018
 int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
+int layout activity_add_video 0x7f0b0086
+int layout activity_camera_record 0x7f0b0087
 int layout activity_forgot 0x7f0b001c
 int layout activity_home 0x7f0b001d
 int layout activity_login 0x7f0b001e

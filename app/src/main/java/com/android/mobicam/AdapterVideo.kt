@@ -1,3 +1,5 @@
+@file:Suppress("DEPRECATION")
+
 package com.android.mobicam
 
 import android.app.DownloadManager

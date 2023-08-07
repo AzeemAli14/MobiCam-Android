@@ -3004,6 +3004,7 @@ id pathRelative
 id peekHeight
 id percent
 id phoneNumber
+id pickVideoFab
 id pin
 id position
 id postLayout
@@ -3136,6 +3137,7 @@ id time
 id timeTv
 id title
 id titleDividerNoCustom
+id titleEt
 id titleTv
 id title_template
 id toggle
@@ -3156,6 +3158,7 @@ id unchecked
 id uniform
 id unlabeled
 id up
+id uploadVideoBtn
 id useLogo
 id userName
 id vView
@@ -3278,6 +3281,8 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_add_video
+layout activity_camera_record
 layout activity_forgot
 layout activity_home
 layout activity_login

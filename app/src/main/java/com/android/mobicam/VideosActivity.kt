@@ -25,7 +25,7 @@ class VideosActivity : AppCompatActivity() {
 
         addVideoFab.setOnClickListener {
 //            This will intent user to MainActivity
-            startActivity(Intent(this, MainActivity::class.java))
+            startActivity(Intent(this, AddVideoActivity::class.java))
         }
     }
 

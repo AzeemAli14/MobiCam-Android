@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddVideoActivity">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/titleEt"
+        android:background="@color/white"
+        android:hint="Enter Title"
+        android:inputType="textPersonName"
+        android:padding="10dp"
+        android:textColor="@color/black"/>
+
+    <VideoView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:id="@+id/videoView"
+        android:layout_below="@id/titleEt"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/uploadVideoBtn"
+        android:layout_below="@id/videoView"
+        android:layout_marginTop="5dp"
+        android:text="Upload Video"
+        android:background="@color/blue"
+        android:textColor="@color/black"/>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/pickVideoFab"
+        android:src="@drawable/baseline_camera_roll_24"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        app:backgroundTint="@color/blue"
+        app:tint="@color/white"/>
+
+</RelativeLayout>

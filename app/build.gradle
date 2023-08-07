@@ -83,7 +83,6 @@ dependencies {
     implementation 'androidx.test:monitor:1.6.1'
     implementation 'androidx.test.ext:junit-ktx:1.1.5'
     implementation 'com.google.firebase:firebase-firestore-ktx:24.1.1'
-    implementation 'com.google.firebase:firebase-inappmessaging:20.3.1'
     implementation 'androidx.wear.tiles:tiles-material:1.1.0-alpha04'
     implementation 'com.google.firebase:firebase-database-ktx:20.0.4'
     implementation 'com.google.firebase:firebase-storage-ktx:20.0.1'

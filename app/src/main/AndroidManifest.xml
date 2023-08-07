@@ -18,6 +18,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".AddVideoActivity"
+            android:exported="false" />
+        <activity
             android:name=".Camera_Record"
             android:exported="false" />
         <activity
@@ -64,7 +67,7 @@
 
         <service
             android:name=".ScreenRecord"
-            android:foregroundServiceType="mediaProjection"></service>
+            android:foregroundServiceType="mediaProjection" />
     </application>
 
 </manifest>
